@@ -1,5 +1,3 @@
-"use strict";
-
 (function(global) {
     System.config({
         paths:{
